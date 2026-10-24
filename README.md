@@ -16,7 +16,7 @@ newer and does not require Python or any community-contributed Stata package.
 Copy this command into Stata's Command window:
 
 ```stata
-net install targetree, from("https://raw.githubusercontent.com/Bill-Wang-Metrics/targetree-stata/main") replace
+net install targetree, from("https://raw.githubusercontent.com/lhy-0594/targetree-stata/main") replace
 ```
 
 Then open the package documentation:
@@ -213,4 +213,4 @@ The confusion-matrix counts reproduce the Python reference implementation:
 Use `help targetree` for the model syntax and links to prediction, evaluation,
 printing, honest estimation, and plotting commands. Questions and bug reports
 can be submitted through the repository's
-[Issues page](https://github.com/Bill-Wang-Metrics/targetree-stata/issues).
+[Issues page](https://github.com/lhy-0594/targetree-stata/issues).
